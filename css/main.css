@@ -6,7 +6,7 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    margin: 60px auto;
+    margin-left: 40px auto;
     width: 40%;
 }
 nav ul li, footer ul li {
@@ -23,17 +23,20 @@ a:hover {
 h1 {
     font-size: 2.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    margin-left: 40px auto;
     width: 40%;
 }
 p {
     font-size: 1.3em;
     line-height: 1.2em;
     color: #333;
+    margin-left: 40px auto;
     width: 40%;
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    margin-left: 40px auto;
     width: 40%;
 }
 
