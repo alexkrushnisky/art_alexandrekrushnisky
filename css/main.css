@@ -1,16 +1,30 @@
 body {
     width: 100%;
+    overflow-x: hidden;
 }
-img {
-    width: 100%;
+ .row-full {
+    width: 100vw;
+    position: relative;
+    margin-left: -50vw;
+    left: 50%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    margin-left: 40px;
-    width: 40%;
+    margin-left: 22%;
+    margin-right: 20px;
+}
+@media only screen and (max-width: 900px) {
+    nav ul, footer ul {
+        font-family:'Helvetica', 'Arial', 'Sans-Serif';
+        padding: 0px;
+        list-style: none;
+        font-weight: bold;
+        margin-left: 10px;
+        margin-right: 20px;
+    }
 }
 nav ul li, footer ul li {
     display: inline;
@@ -26,23 +40,51 @@ a:hover {
 h1 {
     font-size: 2.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    margin-left: 40px;
-    width: 40%;
+    margin-left: 22%;
+    margin-right: 20px;
+    max-width: 700px;
+}
+@media only screen and (max-width: 900px) {
+    h1 {
+        font-size: 2.5em;
+        font-family:'Helvetica', 'Arial', 'Sans-Serif';
+        margin-left: 10px;
+        margin-right: 20px;
+        max-width: 700px;
+    }
 }
 p {
     font-size: 1.3em;
     line-height: 1.2em;
     color: #333;
-    margin-left: 40px;
-    width: 40%;
+    margin-left: 22%;
+    margin-right: 20px;
+    max-width: 700px;
+}
+@media only screen and (max-width: 900px) {
+    p {
+        font-size: 1.3em;
+        line-height: 1.2em;
+        color: #333;
+        margin-left: 10px;
+        margin-right: 20px;
+        max-width: 700px;
+    }
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-    margin-left: 40px;
-    width: 40%;
+    margin-left: 22%;
+    margin-right: 20px;
 }
-
+@media only screen and (max-width: 900px) {
+    footer {
+        border-top: 1px solid #d5d5d5;
+        font-size: .8em;
+        margin-left: 10px;
+        margin-right: 20px;
+    }
+}
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
