@@ -74,22 +74,35 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    margin-top: 30px;
     margin-left: 22%;
     margin-right: 20px;
+    max-width: 700px;
 }
 @media only screen and (max-width: 900px) {
     footer {
         border-top: 1px solid #d5d5d5;
         font-size: .8em;
+        margin-top: 30px;
+        margin-left: 10px;
+        margin-right: 20px;
+        max-width: 700px;
+    }
+}
+ul.posts { 
+    font-size: 1.5em;
+    padding: 0px;
+    margin-left: 22%;
+    margin-right: 20px;
+}
+@media only screen and (max-width: 900px) {
+    ul.posts {
+        font-size: 1.5em;
+        padding: 0px;
         margin-left: 10px;
         margin-right: 20px;
     }
 }
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
-
 ul.posts li {
     list-style: none;
 }
