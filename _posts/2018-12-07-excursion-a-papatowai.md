@@ -4,9 +4,9 @@ title: Excursion &#224; Papatowai
 date: 2018-12-07
 ---
 
-Voici le tout premier article de notre blog. Ce blog vous permettra de suivre nos aventures m&#233;morables &#224; travers la Nouvelle-Z&#233;lande tout au long de notre long s&#233;jour dans ce coin du monde &#233;loign&#233; mais magnifique. Les photos qui agr&#233;mentent le texte vous ferons r&#234;ver des paysages f&#233;eriques qui abondent &#224; chaque coin de rue (et derri&#232;re chaque arbre) et convaincront peut-&#234;tre quelques-un(e)s d'entre vous de venir nous visiter.
+Bienvenue sur le tout premier article de notre blog. Ce blog vous permettra de suivre nos aventures m&#233;morables &#224; travers la Nouvelle-Z&#233;lande tout au long de notre s&#233;jour dans ce coin du monde &#233;loign&#233; mais magnifique. Les photos qui agr&#233;mentent le texte vous ferons r&#234;ver des paysages f&#233;eriques qui abondent &#224; chaque coin de rue (et derri&#232;re chaque arbre) et convaincront peut-&#234;tre quelques-un(e)s d'entre vous de venir nous visiter.
 
-Ce court s&#233;jour de deux jours &#224; Papatowai constitue notre premi&#232;re v&#233;ritable excursion en dehors de notre ville de domicile, Dunedin. Le village de Papatowai est situ&#233; &#224; environ deux heures en voiture au sud de Dunedin (voir la carte en bas de la page), &#224; l'embouchure de la rivi&#232;re Tahakopa qui se jette dans l'oc&#233;an Pacifique. Dans la langue des <a href="https://fr.wikipedia.org/wiki/Maoris_(Nouvelle-Z%C3%A9lande)">Maoris</a> (peuple autochtone de la Nouvelle-Z&#233;lande), Papa est pour &laquo;terre&raquo; et towai correspond &#224; un arbre de la r&#233;gion; Papatowai signifie donc la Terre du Towai (l'&#233;corce du Towai est utilis&#233;e pour traiter des infections de la peau, ainsi que pour le tannage et la teinture). Le village abrite une trentaine de personne a l'ann&#233;e longue, mais beaucoup de r&#233;sidents n'y habitent que durant les mois chauds de l'&#233;t&#233;. Sachez aussi que des os d'une esp&#232;ce d'oiseaux non volants maintenant disparue, les <a href="https://fr.wikipedia.org/wiki/Dinornithiformes">moas</a>, ont &#233;t&#233; trouv&#233;s dans les for&#234;ts environnantes (et la l&#233;gende stipule que le dernier survivant parcourt les for&#234;ts les plus denses et sombres...).
+Ce court s&#233;jour de deux jours &#224; Papatowai constitue notre premi&#232;re v&#233;ritable excursion en dehors de notre ville de domicile, Dunedin. Le village de Papatowai est situ&#233; &#224; environ deux heures en voiture au sud de Dunedin (voir la carte en bas de la page), &#224; l'embouchure de la rivi&#232;re Tahakopa qui se jette dans l'oc&#233;an Pacifique. Dans la langue des <a href="https://fr.wikipedia.org/wiki/Maoris_(Nouvelle-Z%C3%A9lande)">Maoris</a> (peuple autochtone de la Nouvelle-Z&#233;lande), Papa signifie &laquo;terre&raquo; et towai correspond &#224; un arbre de la r&#233;gion; Papatowai veut donc dire la Terre du Towai (l'&#233;corce du Towai est utilis&#233;e pour traiter des infections de la peau, ainsi que pour le tannage et la teinture). Le village abrite une trentaine de personnes &#224; l'ann&#233;e longue, mais beaucoup de r&#233;sidents n'y habitent que durant les mois chauds de l'&#233;t&#233;. Sachez aussi que des os d'une esp&#232;ce d'oiseaux non volants maintenant disparue, les <a href="https://fr.wikipedia.org/wiki/Dinornithiformes">moas</a>, ont &#233;t&#233; trouv&#233;s dans les for&#234;ts environnantes (et la l&#233;gende stipule que le dernier survivant parcourt encore les for&#234;ts les plus denses et sombres...).
 
 <br>
 
@@ -32,7 +32,7 @@ Lorsque nous atteignons la c&#244;te de l'oc&#233;an, d'impressionnantes falaise
 
 <br>
 
-Ici, tous les arbres semblent avoir pouss&#233;s dans une direction sous l'influence des vents de la mer. &#199;a donne de dr&#244;les de paysages. De petits affleurement de basalte sont parsem&#233;s sur les plages, avec d'impressionnantes textures de <a href="https://fr.wikipedia.org/wiki/Pillow_lava">coussins</a> qui attestent de l'emplacement de lave en milieu sous-marin. Auparavant (probablement quelques millions d'ann&#233;es au moins), cette r&#233;gion &#233;tait donc compl&#232;tement submerg&#233;e.
+Ici, tous les arbres semblent avoir pouss&#233;s dans une direction sous l'influence des vents de la mer. &#199;a donne de dr&#244;les de paysages. De petits affleurements de basalte sont parsem&#233;s sur les plages, avec d'impressionnantes textures de <a href="https://fr.wikipedia.org/wiki/Pillow_lava">coussins</a> qui attestent de l'emplacement de lave en milieu sous-marin. Auparavant (probablement quelques millions d'ann&#233;es au moins), cette r&#233;gion &#233;tait donc compl&#232;tement submerg&#233;e.
 
 <br>
 
@@ -40,12 +40,12 @@ Ici, tous les arbres semblent avoir pouss&#233;s dans une direction sous l'influ
 
 <br>
 
-Nous passons l'apr&#232;s-midi &#224; lire et &#224; jouer &#224; la Nintendo Switch (elle est portable!). Plus tard, lorsque nous redescendons vers la rivi&#232;re, quelle n'est pas notre surprise de la retrouver presqu'&#224; sec! La mar&#233;e est assez importante ici apparemment. De nombreux oiseaux, dont des albatros, des mouettes et des canards, profitent de la mar&#233;e basse pour se nourrir d'animaux marins. La photo ci-dessous montre une esp&#232;ce d'oiseau a long bec (<a href="https://en.wikipedia.org/wiki/Chatham_oystercatcher">Hu&#238;trier des Chatham</a>) qui d&#233;terre les mollusques profond&#233;ment cach&#233;s dans le sable et brise leur coquille avant de les avaler. Sur le chemin du retour, les yeux de lynx de Caro aper&#231;oivent un phoque a l'or&#233;e des bois. Il se dirigeait apparemment vers le couvert des arbres, peut-&#234;tre pour y passer la nuit? 
+Nous passons l'apr&#232;s-midi &#224; lire et &#224; jouer &#224; la Nintendo Switch (elle est portable!). Plus tard, lorsque nous redescendons vers la rivi&#232;re, quelle n'est pas notre surprise de la retrouver presqu'&#224; sec! La mar&#233;e est assez importante ici apparemment. De nombreux oiseaux, dont des albatros, des mouettes et des canards, profitent de la mar&#233;e basse pour se nourrir d'animaux marins. La photo ci-dessous montre une esp&#232;ce d'oiseau a long bec (<a href="https://en.wikipedia.org/wiki/Chatham_oystercatcher">Hu&#238;trier des Chatham</a>) qui d&#233;terre les mollusques profond&#233;ment cach&#233;s dans le sable et brise leur coquille avant de les avaler. Sur le chemin du retour, les yeux de lynx de Caro aper&#231;oivent un phoque &#224; l'or&#233;e des bois. Il se dirigeait apparemment vers le couvert des arbres, peut-&#234;tre pour y passer la nuit? 
 
 <br>
 
 <div class="row-full">
-	<img src="/assets/20181207_papatowai/IMG_5799.jpg" onclick="openModal();currentSlide(5)" class="hover-shadow cursor" alt="Deux Hu&#238;trier des Chatham qui cherchent leur repas dans le sable de la rivi&#232;re &#224; la mar&#233;e basse." style="width:100%;">
+	<img src="/assets/20181207_papatowai/IMG_5799.jpg" onclick="openModal();currentSlide(5)" class="hover-shadow cursor" alt="Deux Hu&#238;trier des Chatham qui cherchent leur repas dans le sable de la rivi&#232;re &#224; mar&#233;e basse." style="width:100%;">
 </div>
 
 <br>
@@ -81,7 +81,7 @@ Quelques photos suppl&#233;mentaires de notre excursion (cliquez sur les photos 
     <img src="/assets/20181207_papatowai/IMG_5786.jpg" onclick="openModal();currentSlide(11)" class="hover-shadow cursor" style="width:100%" alt="Caro sur de beaux affleurements de basaltes en coussins.">
   </div>
   <div class="column">
-    <img src="/assets/20181207_papatowai/IMG_5791.jpg" onclick="openModal();currentSlide(12)" class="hover-shadow cursor" style="width:100%" alt="Un affleurement de basalte en coussins.">
+    <img src="/assets/20181207_papatowai/IMG_5791.jpg" onclick="openModal();currentSlide(12)" class="hover-shadow cursor" style="width:100%" alt="Vue sur les vagues de l'oc&#233;an Pacifique (avec un affleurement de basalte en coussins).">
   </div>
   <div class="column">
     <img src="/assets/20181207_papatowai/IMG_6136.jpg" onclick="openModal();currentSlide(13)" class="hover-shadow cursor" style="width:100%" alt="Vue majestueuse sur l'embouchure de la rivi&#232;re Tahakopa qui se jette dans l'oc&#233;an Pacifique.">
@@ -96,7 +96,7 @@ Quelques photos suppl&#233;mentaires de notre excursion (cliquez sur les photos 
     <img src="/assets/20181207_papatowai/IMG_6193.jpg" onclick="openModal();currentSlide(15)" class="hover-shadow cursor" style="width:100%" alt="Alex qui a trop frette aux pieds.">
   </div>
   <div class="column">
-    <img src="/assets/20181207_papatowai/IMG_5801.jpg" onclick="openModal();currentSlide(16)" class="hover-shadow cursor" style="width:100%" alt="La rivi&#232;re Tahakopa &#224; la mar&#233;e basse.">
+    <img src="/assets/20181207_papatowai/IMG_5801.jpg" onclick="openModal();currentSlide(16)" class="hover-shadow cursor" style="width:100%" alt="La rivi&#232;re Tahakopa &#224; mar&#233;e basse.">
   </div>
 </div>
 
