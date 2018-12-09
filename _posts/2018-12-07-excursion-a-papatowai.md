@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Excursion &#224; Papatowai
+title: Excursion &#224; Papatowai (1-2 d&#233;cembre 2018)
 date: 2018-12-07
 ---
 
