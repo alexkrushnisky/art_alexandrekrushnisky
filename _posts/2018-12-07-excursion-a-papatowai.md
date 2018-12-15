@@ -11,6 +11,7 @@ Ce court s&#233;jour de deux jours &#224; Papatowai constitue notre premi&#232;r
 <br>
 
 <img src="/assets/20181207_papatowai/IMG_5758.jpg" onclick="openModal();currentSlide(1)" class="hover-shadow cursor" alt="Caro qui prend une photo du paysage pr&#232;s de la rivi&#232;re Tahakopa." style="width:100%;">
+<figcaption>Caro qui prend une photo du paysage pr&#232;s de la rivi&#232;re Tahakopa.</figcaption>
 
 <br>
 
@@ -19,6 +20,7 @@ En route vers Papatowai, nous passons un petit village qui accueille ses visiteu
 <br>
 
 <img src="/assets/20181207_papatowai/IMG_5761.jpg" onclick="openModal();currentSlide(2)" class="hover-shadow cursor" alt="Un petit crabe qui essaie de se cacher dans le sable au fond de la rivi&#232;re." style="width:100%;">
+<figcaption>Un petit crabe qui essaie de se cacher dans le sable au fond de la rivi&#232;re.</figcaption>
 
 <br>
 
@@ -29,6 +31,7 @@ Lorsque nous atteignons la c&#244;te de l'oc&#233;an, d'impressionnantes falaise
 <div class="row-full">
 	<img src="/assets/20181207_papatowai/IMG_5771.jpg" onclick="openModal();currentSlide(3)" class="hover-shadow cursor" alt="La c&#244;te de l'oc&#233;an Pacifique, &#224; l'embouchure de la rivi&#232;re Tahakopa." style="width:100%;">
 </div>
+<figcaption>La c&#244;te de l'oc&#233;an Pacifique, &#224; l'embouchure de la rivi&#232;re Tahakopa.</figcaption>
 
 <br>
 
@@ -37,6 +40,7 @@ Ici, tous les arbres semblent avoir pouss&#233;s dans une direction sous l'influ
 <br>
 
 <img src="/assets/20181207_papatowai/IMG_6173.jpg" onclick="openModal();currentSlide(4)" class="hover-shadow cursor" alt="La plage et les arbres fortement inclin&#233;s par les vents du Pacifique." style="width:100%;">
+<figcaption>La plage et les arbres fortement inclin&#233;s par les vents du Pacifique.</figcaption>
 
 <br>
 
@@ -47,6 +51,7 @@ Nous passons l'apr&#232;s-midi &#224; lire et &#224; jouer &#224; la Nintendo Sw
 <div class="row-full">
 	<img src="/assets/20181207_papatowai/IMG_5799.jpg" onclick="openModal();currentSlide(5)" class="hover-shadow cursor" alt="Deux Hu&#238;trier des Chatham qui cherchent leur repas dans le sable de la rivi&#232;re &#224; mar&#233;e basse." style="width:100%;">
 </div>
+<figcaption>Deux Hu&#238;trier des Chatham qui cherchent leur repas dans le sable de la rivi&#232;re &#224; mar&#233;e basse.</figcaption>
 
 <br>
 
