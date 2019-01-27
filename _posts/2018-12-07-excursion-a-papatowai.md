@@ -209,7 +209,7 @@ Quelques photos suppl&#233;mentaires de notre excursion (cliquez sur les photos 
 
     <!-- Caption text -->
     <div class="caption-container">
-      <p id="caption"></p>
+      <div id="caption"></div>
     </div> 
   </div>
 </div>

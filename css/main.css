@@ -1,3 +1,5 @@
+/* Blog article style */
+
 body {
     width: 100%;
     overflow-x: hidden;
@@ -73,23 +75,6 @@ p {
         max-width: 700px;
     }
 }
-figcaption {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 1em;
-    font-weight:bold;
-    line-height: 1em;
-    color: #607d8b;
-    margin-left: 22%;
-    margin-right: 20px;
-    max-width: 700px;
-}
-@media only screen and (max-width: 900px) {
-    figcaption {
-        margin-left: 10px;
-        margin-right: 20px;
-        max-width: 700px;
-    }
-}
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
@@ -124,4 +109,27 @@ ul.posts {
 }
 ul.posts li {
     list-style: none;
+}
+
+
+
+
+/* Figure captions in article */
+
+figcaption {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1em;
+    font-weight:bold;
+    line-height: 1em;
+    color: #607d8b;
+    margin-left: 22%;
+    margin-right: 20px;
+    max-width: 700px;
+}
+@media only screen and (max-width: 900px) {
+    figcaption {
+        margin-left: 10px;
+        margin-right: 20px;
+        max-width: 700px;
+    }
 }

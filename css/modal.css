@@ -41,7 +41,7 @@
   height: 100%;
   overflow: auto;
   background-color: rgb(255,255,255);
-  background-color: rgba(255,255,255,0.9);
+  background-color: rgba(190,190,190,0.8);
 }
 
 /* Modal Content */
@@ -50,6 +50,7 @@
   background-color: #fefefe;
   margin: auto;
   padding: 0;
+  border:10px solid white;
   width: 95%;
   max-width: 900px;
 }
@@ -114,9 +115,9 @@
 .numbertext {
   color: #f2f2f2;
   font-size: 12px;
-  padding: 8px 12px;
+  top: 8px;
+  left: 12px;
   position: absolute;
-  top: 0;
 }
 
 img {
@@ -124,9 +125,14 @@ img {
 }
 
 .caption-container {
+  position: absolute;
+  bottom: 0;
+  width:100%;
   text-align: center;
-  padding: 2px 16px;
-  color: #ccc;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 1%;
+  color: white;
+  font-size: 1.1em;
 }
 
 img.hover-shadow {
