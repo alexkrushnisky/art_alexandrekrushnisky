@@ -1,65 +1,65 @@
----
+﻿---
 layout: post
-title: Excursion &#224; Papatowai (1-2 d&#233;cembre 2018)
+title: Excursion à Papatowai (1-2 décembre 2018)
 date: 2018-12-07
 ---
 
-Bienvenue sur le tout premier article de notre blog. Ce blog vous permettra de suivre nos aventures m&#233;morables &#224; travers la Nouvelle-Z&#233;lande tout au long de notre s&#233;jour dans ce coin du monde &#233;loign&#233; mais magnifique. Les photos qui agr&#233;mentent le texte vous ferons r&#234;ver des paysages f&#233;eriques qui abondent &#224; chaque coin de rue (et derri&#232;re chaque arbre) et convaincront peut-&#234;tre quelques-un(e)s d'entre vous de venir nous visiter.
+Bienvenue sur le tout premier article de notre blog. Ce blog vous permettra de suivre nos aventures mémorables à travers la Nouvelle-Zélande tout au long de notre séjour dans ce coin du monde éloigné mais magnifique. Les photos qui agrémentent le texte vous ferons rêver des paysages féeriques qui abondent à chaque coin de rue (et derrière chaque arbre) et convaincront peut-être quelques-un(e)s d'entre vous de venir nous visiter.
 
-Ce court s&#233;jour de deux jours &#224; Papatowai constitue notre premi&#232;re v&#233;ritable excursion en dehors de notre ville de domicile, Dunedin. Le village de Papatowai est situ&#233; &#224; environ deux heures en voiture au sud de Dunedin (voir la carte en bas de la page), &#224; l'embouchure de la rivi&#232;re Tahakopa qui se jette dans l'oc&#233;an Pacifique. Dans la langue des <a href="https://fr.wikipedia.org/wiki/Maoris_(Nouvelle-Z%C3%A9lande)">Maoris</a> (peuple autochtone de la Nouvelle-Z&#233;lande), Papa signifie &laquo;terre&raquo; et towai correspond &#224; un arbre de la r&#233;gion; Papatowai veut donc dire la Terre du Towai (l'&#233;corce du Towai est utilis&#233;e pour traiter des infections de la peau, ainsi que pour le tannage et la teinture). Le village abrite une trentaine de personnes &#224; l'ann&#233;e longue, mais beaucoup de r&#233;sidents n'y habitent que durant les mois chauds de l'&#233;t&#233;. Sachez aussi que des os d'une esp&#232;ce d'oiseaux non volants maintenant disparue, les <a href="https://fr.wikipedia.org/wiki/Dinornithiformes">moas</a>, ont &#233;t&#233; trouv&#233;s dans les for&#234;ts environnantes (et la l&#233;gende stipule que le dernier survivant parcourt encore les for&#234;ts les plus denses et sombres...).
-
-<br>
-
-<img src="/assets/20181207_papatowai/IMG_5758.jpg" onclick="openModal();currentSlide(1)" class="hover-shadow cursor" alt="Caro qui prend une photo du paysage pr&#232;s de la rivi&#232;re Tahakopa." style="width:100%;">
-<figcaption>Caro qui prend une photo du paysage pr&#232;s de la rivi&#232;re Tahakopa.</figcaption>
+Ce court séjour de deux jours à Papatowai constitue notre première véritable excursion en dehors de notre ville de domicile, Dunedin. Le village de Papatowai est situé à environ deux heures en voiture au sud de Dunedin (voir la carte en bas de la page), à l'embouchure de la rivière Tahakopa qui se jette dans l'océan Pacifique. Dans la langue des <a href="https://fr.wikipedia.org/wiki/Maoris_(Nouvelle-Z%C3%A9lande)">Maoris</a> (peuple autochtone de la Nouvelle-Zélande), Papa signifie &laquo;terre&raquo; et towai correspond à un arbre de la région; Papatowai veut donc dire la Terre du Towai (l'écorce du Towai est utilisée pour traiter des infections de la peau, ainsi que pour le tannage et la teinture). Le village abrite une trentaine de personnes à l'année longue, mais beaucoup de résidents n'y habitent que durant les mois chauds de l'été. Sachez aussi que des os d'une espèce d'oiseaux non volants maintenant disparue, les <a href="https://fr.wikipedia.org/wiki/Dinornithiformes">moas</a>, ont été trouvés dans les forêts environnantes (et la légende stipule que le dernier survivant parcourt encore les forêts les plus denses et sombres...).
 
 <br>
 
-En route vers Papatowai, nous passons un petit village qui accueille ses visiteurs avec une enseigne sur laquelle est &#233;crite les mots: <i>No hospital, no doctor, one cemetary</i>. Charmant. &#192; notre arriv&#233;e, nous trouvons le terrain de camping. Il s'agit de petites aires gazonn&#233;es et bien isol&#233;es par de nombreux gros arbres. Libre &#224; nous de choisir le site que nous pr&#233;f&#233;rons. Apr&#232;s avoir rapidement install&#233; la tente, nous nous dirigeons vers la plage avec notre lunch, ce qui repr&#233;sente une grosse marche de deux minutes. La plage donne sur la rivi&#232;re, et la mar&#233;e est tr&#232;s haute. Des for&#234;ts denses nous entourent. Au loin, nous pouvons apercevoir les vagues de l'oc&#233;an Pacifique. Apr&#232;s avoir mang&#233; nos sandwichs au jambon, confortablement install&#233;s dans nos chaises pliantes de camping, nous partons explorer la c&#244;te. Nous marchons &#224; moiti&#233; dans la rivi&#232;re, car l'eau monte jusqu'au rebord de la for&#234;t imp&#233;n&#233;trable. De petits crabes parcourent les parties peu profondes de la rivi&#232;re et nous devons &#233;viter leur pinces ac&#233;r&#233;es (RIP le petit crabe qui a trouv&#233; sa fin sous le soulier d'Alex). D&#233;sol&#233; &#233;galement au crabe qui dormait paisiblement dans un coquillage et que l'on a si brusquement r&#233;veill&#233;.
+<img src="/assets/20181207_papatowai/IMG_5758.jpg" onclick="openModal();currentSlide(1)" class="hover-shadow cursor" alt="Caro qui prend une photo du paysage près de la rivière Tahakopa." style="width:100%;">
+<figcaption>Caro qui prend une photo du paysage près de la rivière Tahakopa.</figcaption>
 
 <br>
 
-<img src="/assets/20181207_papatowai/IMG_5761.jpg" onclick="openModal();currentSlide(2)" class="hover-shadow cursor" alt="Un petit crabe qui essaie de se cacher dans le sable au fond de la rivi&#232;re." style="width:100%;">
-<figcaption>Un petit crabe qui essaie de se cacher dans le sable au fond de la rivi&#232;re.</figcaption>
+En route vers Papatowai, nous passons un petit village qui accueille ses visiteurs avec une enseigne sur laquelle est écrite les mots: <i>No hospital, no doctor, one cemetary</i>. Charmant. À notre arrivée, nous trouvons le terrain de camping. Il s'agit de petites aires gazonnées et bien isolées par de nombreux gros arbres. Libre à nous de choisir le site que nous préférons. Après avoir rapidement installé la tente, nous nous dirigeons vers la plage avec notre lunch, ce qui représente une grosse marche de deux minutes. La plage donne sur la rivière, et la marée est très haute. Des forêts denses nous entourent. Au loin, nous pouvons apercevoir les vagues de l'océan Pacifique. Après avoir mangé nos sandwichs au jambon, confortablement installés dans nos chaises pliantes de camping, nous partons explorer la côte. Nous marchons à moitié dans la rivière, car l'eau monte jusqu'au rebord de la forêt impénétrable. De petits crabes parcourent les parties peu profondes de la rivière et nous devons éviter leur pinces acérées (RIP le petit crabe qui a trouvé sa fin sous le soulier d'Alex). Désolé également au crabe qui dormait paisiblement dans un coquillage et que l'on a si brusquement réveillé.
 
 <br>
 
-Lorsque nous atteignons la c&#244;te de l'oc&#233;an, d'impressionnantes falaises nous sont r&#233;v&#233;l&#233;es au loin &#224; travers une mince couche de brouillard maritime. La for&#234;t sur la c&#244;te ressemble &#224; la jungle amazonienne tellement elle est dense et vari&#233;e. Le chant d'une dizaine d'oiseaux diff&#233;rents retentie &#224; travers les arbres et s'ajoutent &#224; l'ambiance paradisiaque.
+<img src="/assets/20181207_papatowai/IMG_5761.jpg" onclick="openModal();currentSlide(2)" class="hover-shadow cursor" alt="Un petit crabe qui essaie de se cacher dans le sable au fond de la rivière." style="width:100%;">
+<figcaption>Un petit crabe qui essaie de se cacher dans le sable au fond de la rivière.</figcaption>
 
 <br>
 
-<div class="row-full">
-	<img src="/assets/20181207_papatowai/IMG_5771.jpg" onclick="openModal();currentSlide(3)" class="hover-shadow cursor" alt="La c&#244;te de l'oc&#233;an Pacifique, &#224; l'embouchure de la rivi&#232;re Tahakopa." style="width:100%;">
-</div>
-<figcaption>La c&#244;te de l'oc&#233;an Pacifique, &#224; l'embouchure de la rivi&#232;re Tahakopa.</figcaption>
-
-<br>
-
-Ici, tous les arbres semblent avoir pouss&#233;s dans une direction sous l'influence des vents de la mer. &#199;a donne de dr&#244;les de paysages. De petits affleurements de basalte sont parsem&#233;s sur les plages, avec d'impressionnantes textures de <a href="https://fr.wikipedia.org/wiki/Pillow_lava">coussins</a> qui attestent de l'emplacement de lave en milieu sous-marin. Auparavant (probablement quelques millions d'ann&#233;es au moins), cette r&#233;gion &#233;tait donc compl&#232;tement submerg&#233;e.
-
-<br>
-
-<img src="/assets/20181207_papatowai/IMG_6173.jpg" onclick="openModal();currentSlide(4)" class="hover-shadow cursor" alt="La plage et les arbres fortement inclin&#233;s par les vents du Pacifique." style="width:100%;">
-<figcaption>La plage et les arbres fortement inclin&#233;s par les vents du Pacifique.</figcaption>
-
-<br>
-
-Nous passons l'apr&#232;s-midi &#224; lire et &#224; jouer &#224; la Nintendo Switch (elle est portable!). Plus tard, lorsque nous redescendons vers la rivi&#232;re, quelle n'est pas notre surprise de la retrouver presqu'&#224; sec! La mar&#233;e est assez importante ici apparemment. De nombreux oiseaux, dont des albatros, des mouettes et des canards, profitent de la mar&#233;e basse pour se nourrir d'animaux marins. La photo ci-dessous montre une esp&#232;ce d'oiseau a long bec (<a href="https://en.wikipedia.org/wiki/Chatham_oystercatcher">Hu&#238;trier des Chatham</a>) qui d&#233;terre les mollusques profond&#233;ment cach&#233;s dans le sable et brise leur coquille avant de les avaler. Sur le chemin du retour, les yeux de lynx de Caro aper&#231;oivent un phoque &#224; l'or&#233;e des bois. Il se dirigeait apparemment vers le couvert des arbres, peut-&#234;tre pour y passer la nuit? 
+Lorsque nous atteignons la côte de l'océan, d'impressionnantes falaises nous sont révélées au loin à travers une mince couche de brouillard maritime. La forêt sur la côte ressemble à la jungle amazonienne tellement elle est dense et variée. Le chant d'une dizaine d'oiseaux différents retentie à travers les arbres et s'ajoutent à l'ambiance paradisiaque.
 
 <br>
 
 <div class="row-full">
-	<img src="/assets/20181207_papatowai/IMG_5799.jpg" onclick="openModal();currentSlide(5)" class="hover-shadow cursor" alt="Deux Hu&#238;trier des Chatham qui cherchent leur repas dans le sable de la rivi&#232;re &#224; mar&#233;e basse." style="width:100%;">
+	<img src="/assets/20181207_papatowai/IMG_5771.jpg" onclick="openModal();currentSlide(3)" class="hover-shadow cursor" alt="La côte de l'océan Pacifique, à l'embouchure de la rivière Tahakopa." style="width:100%;">
 </div>
-<figcaption>Deux Hu&#238;trier des Chatham qui cherchent leur repas dans le sable de la rivi&#232;re &#224; mar&#233;e basse.</figcaption>
+<figcaption>La côte de l'océan Pacifique, à l'embouchure de la rivière Tahakopa.</figcaption>
 
 <br>
 
-Bien que le soleil ait fait sentir sa pr&#233;sence tout au long de cette chaude journ&#233;e de printemps, la temp&#233;rature baisse agr&#233;ablement &#224; la tomb&#233;e de la nuit. Notre souper de hot-dogs cuits sur un r&#233;chaud au gaz (nous ne pouvons pas faire de feu de camp malheureusement) et de l&#233;gumes crus est excellent bien que simple. Nous passons une nuit tr&#232;s confortable dans notre petite tente, entass&#233;s comme des sardines. Le lendemain matin, nous mangeons quelques muffins pour d&#233;jeuner et nous retournons pour une derni&#232;re petite promenade sur la plage avant de ranger l'&#233;quipement dans la voiture et de revenir &#224; la civilisation.
+Ici, tous les arbres semblent avoir poussés dans une direction sous l'influence des vents de la mer. Ça donne de drôles de paysages. De petits affleurements de basalte sont parsemés sur les plages, avec d'impressionnantes textures de <a href="https://fr.wikipedia.org/wiki/Pillow_lava">coussins</a> qui attestent de l'emplacement de lave en milieu sous-marin. Auparavant (probablement quelques millions d'années au moins), cette région était donc complètement submergée.
 
 <br>
 
-Quelques photos suppl&#233;mentaires de notre excursion (cliquez sur les photos pour les agrandir):
+<img src="/assets/20181207_papatowai/IMG_6173.jpg" onclick="openModal();currentSlide(4)" class="hover-shadow cursor" alt="La plage et les arbres fortement inclinés par les vents du Pacifique." style="width:100%;">
+<figcaption>La plage et les arbres fortement inclinés par les vents du Pacifique.</figcaption>
+
+<br>
+
+Nous passons l'après-midi à lire et à jouer à la Nintendo Switch (elle est portable!). Plus tard, lorsque nous redescendons vers la rivière, quelle n'est pas notre surprise de la retrouver presqu'à sec! La marée est assez importante ici apparemment. De nombreux oiseaux, dont des albatros, des mouettes et des canards, profitent de la marée basse pour se nourrir d'animaux marins. La photo ci-dessous montre une espèce d'oiseau a long bec (<a href="https://en.wikipedia.org/wiki/Chatham_oystercatcher">Hu&#238;trier des Chatham</a>) qui déterre les mollusques profondément cachés dans le sable et brise leur coquille avant de les avaler. Sur le chemin du retour, les yeux de lynx de Caro aperçoivent un phoque à l'orée des bois. Il se dirigeait apparemment vers le couvert des arbres, peut-être pour y passer la nuit? 
+
+<br>
+
+<div class="row-full">
+	<img src="/assets/20181207_papatowai/IMG_5799.jpg" onclick="openModal();currentSlide(5)" class="hover-shadow cursor" alt="Deux Huîtrier des Chatham qui cherchent leur repas dans le sable de la rivière à marée basse." style="width:100%;">
+</div>
+<figcaption>Deux Huîtrier des Chatham qui cherchent leur repas dans le sable de la rivière à marée basse.</figcaption>
+
+<br>
+
+Bien que le soleil ait fait sentir sa présence tout au long de cette chaude journée de printemps, la température baisse agréablement à la tombée de la nuit. Notre souper de hot-dogs cuits sur un réchaud au gaz (nous ne pouvons pas faire de feu de camp malheureusement) et de légumes crus est excellent bien que simple. Nous passons une nuit très confortable dans notre petite tente, entassés comme des sardines. Le lendemain matin, nous mangeons quelques muffins pour déjeuner et nous retournons pour une dernière petite promenade sur la plage avant de ranger l'équipement dans la voiture et de revenir à la civilisation.
+
+<br>
+
+Quelques photos supplémentaires de notre excursion (cliquez sur les photos pour les agrandir):
 
 
 <!-- Images used to open the lightbox -->
@@ -68,40 +68,40 @@ Quelques photos suppl&#233;mentaires de notre excursion (cliquez sur les photos 
     <img src="/assets/20181207_papatowai/IMG_5718.jpg" onclick="openModal();currentSlide(6)" class="hover-shadow cursor" style="width:100%" alt="Caro qui admire le paysage majestueux de Papatowai.">
   </div>
   <div class="column">
-    <img src="/assets/20181207_papatowai/IMG_5722.jpg" onclick="openModal();currentSlide(7)" class="hover-shadow cursor" style="width:100%" alt="Alex sur la plage &#224; Papatowai.">
+    <img src="/assets/20181207_papatowai/IMG_5722.jpg" onclick="openModal();currentSlide(7)" class="hover-shadow cursor" style="width:100%" alt="Alex sur la plage à Papatowai.">
   </div>
   <div class="column">
-    <img src="/assets/20181207_papatowai/IMG_5743.jpg" onclick="openModal();currentSlide(8)" class="hover-shadow cursor" style="width:100%" alt="Une dr&#244;le de foug&egrave;re.">
+    <img src="/assets/20181207_papatowai/IMG_5743.jpg" onclick="openModal();currentSlide(8)" class="hover-shadow cursor" style="width:100%" alt="Une drôle de fougère.">
   </div>
   <div class="column">
-    <img src="/assets/20181207_papatowai/IMG_5756.jpg" onclick="openModal();currentSlide(9)" class="hover-shadow cursor" style="width:100%" alt="Nos empreintes de pas sur le sable sont immortalis&#233;es &#224; jamais...">
+    <img src="/assets/20181207_papatowai/IMG_5756.jpg" onclick="openModal();currentSlide(9)" class="hover-shadow cursor" style="width:100%" alt="Nos empreintes de pas sur le sable sont immortalisées à jamais...">
   </div>
 </div>
 
 <div class="row">
   <div class="column">
-    <img src="/assets/20181207_papatowai/IMG_5772.jpg" onclick="openModal();currentSlide(10)" class="hover-shadow cursor" style="width:100%" alt="Caro qui se prend trop au s&#233;rieuse comme photographe.">
+    <img src="/assets/20181207_papatowai/IMG_5772.jpg" onclick="openModal();currentSlide(10)" class="hover-shadow cursor" style="width:100%" alt="Caro qui se prend trop au sérieuse comme photographe.">
   </div>
   <div class="column">
     <img src="/assets/20181207_papatowai/IMG_5786.jpg" onclick="openModal();currentSlide(11)" class="hover-shadow cursor" style="width:100%" alt="Caro sur de beaux affleurements de basaltes en coussins.">
   </div>
   <div class="column">
-    <img src="/assets/20181207_papatowai/IMG_5791.jpg" onclick="openModal();currentSlide(12)" class="hover-shadow cursor" style="width:100%" alt="Vue sur les vagues de l'oc&#233;an Pacifique (avec un affleurement de basalte en coussins).">
+    <img src="/assets/20181207_papatowai/IMG_5791.jpg" onclick="openModal();currentSlide(12)" class="hover-shadow cursor" style="width:100%" alt="Vue sur les vagues de l'océan Pacifique (avec un affleurement de basalte en coussins).">
   </div>
   <div class="column">
-    <img src="/assets/20181207_papatowai/IMG_6136.jpg" onclick="openModal();currentSlide(13)" class="hover-shadow cursor" style="width:100%" alt="Vue majestueuse sur l'embouchure de la rivi&#232;re Tahakopa qui se jette dans l'oc&#233;an Pacifique.">
+    <img src="/assets/20181207_papatowai/IMG_6136.jpg" onclick="openModal();currentSlide(13)" class="hover-shadow cursor" style="width:100%" alt="Vue majestueuse sur l'embouchure de la rivière Tahakopa qui se jette dans l'océan Pacifique.">
   </div>
 </div>
 
 <div class="row">
   <div class="column">
-    <img src="/assets/20181207_papatowai/IMG_6154.jpg" onclick="openModal();currentSlide(14)" class="hover-shadow cursor" style="width:100%" alt="La plage qui donne sur l'oc&#233;an Pacifique.">
+    <img src="/assets/20181207_papatowai/IMG_6154.jpg" onclick="openModal();currentSlide(14)" class="hover-shadow cursor" style="width:100%" alt="La plage qui donne sur l'océan Pacifique.">
   </div>
   <div class="column">
     <img src="/assets/20181207_papatowai/IMG_6193.jpg" onclick="openModal();currentSlide(15)" class="hover-shadow cursor" style="width:100%" alt="Alex qui a trop frette aux pieds.">
   </div>
   <div class="column">
-    <img src="/assets/20181207_papatowai/IMG_5801.jpg" onclick="openModal();currentSlide(16)" class="hover-shadow cursor" style="width:100%" alt="La rivi&#232;re Tahakopa &#224; mar&#233;e basse.">
+    <img src="/assets/20181207_papatowai/IMG_5801.jpg" onclick="openModal();currentSlide(16)" class="hover-shadow cursor" style="width:100%" alt="La rivière Tahakopa à marée basse.">
   </div>
 </div>
 
@@ -222,7 +222,7 @@ Quelques photos suppl&#233;mentaires de notre excursion (cliquez sur les photos 
 <br>
 <br>
 
-Voici la localisation de Papatowai sur une carte de la Nouvelle-Z&#233;lande:
+Voici la localisation de Papatowai sur une carte de la Nouvelle-Zélande:
 
 <div class="row-full">
 	<iframe width="100%" height="400px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html&quest;bbox=167.65960693359375%2C-47.387193097780425%2C171.28509521484378%2C-45.71768635790718&amp;layer=mapnik&amp;marker=-46.558860303117186%2C169.47235107421875" style="border: 1px solid black"></iframe><br/>
