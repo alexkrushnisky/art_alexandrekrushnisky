@@ -101,7 +101,7 @@ Et voici quelques photos supplémentaires de notre appartement et de Dunedin (cl
     <img src="/assets/20190128_dunedin/IMG_6124.jpg" onclick="openModal();currentSlide(15)" class="hover-shadow cursor" style="width:100%" alt="Des mouettes qui chill sur une clôture près du Centre des Albatros royaux.">
   </div>
   <div class="column">
-    <img src="/assets/20190128_dunedin/IMG_5701.jpg" onclick="openModal();currentSlide(16)" class="hover-shadow cursor" style="width:100%" alt="Une coquille d'escargot sur la plage de Warrington.">
+    <img src="/assets/20190128_dunedin/IMG_5701.jpg" onclick="openModal();currentSlide(16)" class="hover-shadow cursor" style="width:100%" alt="Une coquille de mollusque sur la plage de Warrington.">
   </div>
   <div class="column">
     <img src="/assets/20190128_dunedin/IMG_5885.jpg" onclick="openModal();currentSlide(17)" class="hover-shadow cursor" style="width:100%" alt="Caro sur un banc coloré.">
