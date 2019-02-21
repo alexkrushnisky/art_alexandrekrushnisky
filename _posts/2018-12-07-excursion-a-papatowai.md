@@ -117,88 +117,88 @@ Quelques photos supplémentaires de notre excursion (cliquez sur les photos pour
 
     <div class="mySlides">
       <div class="numbertext">1 / 16</div>
-      <img src="/assets/20181207_papatowai/IMG_5758.jpg" style="width:100%;">
+      <img src="/assets/20181207_papatowai/IMG_5758.jpg" style="max-width:95vw;max-height:90vh;">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">2 / 16</div>
-      <img src="/assets/20181207_papatowai/IMG_5761.jpg" style="width:100%;">
+      <img src="/assets/20181207_papatowai/IMG_5761.jpg" style="max-width:95vw;max-height:90vh;">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">3 / 16</div>
-      <img src="/assets/20181207_papatowai/IMG_5771.jpg" style="width:100%;">
+      <img src="/assets/20181207_papatowai/IMG_5771.jpg" style="max-width:95vw;max-height:90vh;">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">4 / 16</div>
-      <img src="/assets/20181207_papatowai/IMG_6173.jpg" style="width:100%;">
+      <img src="/assets/20181207_papatowai/IMG_6173.jpg" style="max-width:95vw;max-height:90vh;">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">5 / 16</div>
-      <img src="/assets/20181207_papatowai/IMG_5799.jpg" style="width:100%;">
+      <img src="/assets/20181207_papatowai/IMG_5799.jpg" style="max-width:95vw;max-height:90vh;">
     </div>
 
 
 
     <div class="mySlides">
       <div class="numbertext">6 / 16</div>
-      <img src="/assets/20181207_papatowai/IMG_5718.jpg" style="width:100%">
+      <img src="/assets/20181207_papatowai/IMG_5718.jpg" style="max-width:95vw;max-height:90vh;">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">7 / 16</div>
-      <img src="/assets/20181207_papatowai/IMG_5722.jpg" style="width:100%">
+      <img src="/assets/20181207_papatowai/IMG_5722.jpg" style="max-width:95vw;max-height:90vh;">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">8 / 16</div>
-      <img src="/assets/20181207_papatowai/IMG_5743.jpg"   style="width:100%">
+      <img src="/assets/20181207_papatowai/IMG_5743.jpg"   style="max-width:95vw;max-height:90vh;">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">9 / 16</div>
-      <img src="/assets/20181207_papatowai/IMG_5756.jpg" style="width:100%">
+      <img src="/assets/20181207_papatowai/IMG_5756.jpg" style="max-width:95vw;max-height:90vh;">
     </div>
 
 
 
     <div class="mySlides">
       <div class="numbertext">10 / 16</div>
-      <img src="/assets/20181207_papatowai/IMG_5772.jpg" style="width:100%">
+      <img src="/assets/20181207_papatowai/IMG_5772.jpg" style="max-width:95vw;max-height:90vh;">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">11 / 16</div>
-      <img src="/assets/20181207_papatowai/IMG_5786.jpg" style="width:100%">
+      <img src="/assets/20181207_papatowai/IMG_5786.jpg" style="max-width:95vw;max-height:90vh;">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">12 / 16</div>
-      <img src="/assets/20181207_papatowai/IMG_5791.jpg"   style="width:100%">
+      <img src="/assets/20181207_papatowai/IMG_5791.jpg"   style="max-width:95vw;max-height:90vh;">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">13 / 16</div>
-      <img src="/assets/20181207_papatowai/IMG_6136.jpg" style="width:100%">
+      <img src="/assets/20181207_papatowai/IMG_6136.jpg" style="max-width:95vw;max-height:90vh;">
     </div>
 
 
 
     <div class="mySlides">
       <div class="numbertext">14 / 16</div>
-      <img src="/assets/20181207_papatowai/IMG_6154.jpg" style="width:100%">
+      <img src="/assets/20181207_papatowai/IMG_6154.jpg" style="max-width:95vw;max-height:90vh;">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">15 / 16</div>
-      <img src="/assets/20181207_papatowai/IMG_6193.jpg" style="width:100%">
+      <img src="/assets/20181207_papatowai/IMG_6193.jpg" style="max-width:95vw;max-height:90vh;">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">16 / 16</div>
-      <img src="/assets/20181207_papatowai/IMG_5801.jpg"   style="width:100%">
+      <img src="/assets/20181207_papatowai/IMG_5801.jpg"   style="max-width:95vw;max-height:90vh;">
     </div>
 
 

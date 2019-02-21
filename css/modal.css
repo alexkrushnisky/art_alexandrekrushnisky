@@ -34,7 +34,7 @@
   display: none;
   position: fixed;
   z-index: 1;
-  padding-top: 50px;
+  padding-top: 25px;
   left: 0;
   top: 0;
   width: 100%;
@@ -47,12 +47,9 @@
 /* Modal Content */
 .modal-content {
   position: relative;
-  background-color: #fefefe;
   margin: auto;
-  padding: 0;
   border:10px solid white;
-  width: 95%;
-  max-width: 900px;
+  display: table;
 }
 
 /* The Close Button */
