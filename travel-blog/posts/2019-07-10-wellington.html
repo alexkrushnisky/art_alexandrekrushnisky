@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+
+		<title>Wellington</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta charset="UTF-8"/>
+
+		<link href="https://fonts.googleapis.com/css?family=Amaranth:400,700&display=swap" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="../style/blog.css">
+
+	</head>
+
+	<body>
+
+		<header class="header-post">
+
+			<a href="../blog.html">&#10094; Retour</a>
+
+		</header>
+
+		<main>
+
+			<h2>Wellington</h2>
+
+			<p>10 juillet 2019</p>
+
+      <p>Bonjour à tous!</p>
+
+      <p>Quelques photos de Wellington, la capitale de la Nouvelle-Zélande. Un petit voyage de quelques jours avec mon père, pendant que Caro profitait du temps chaud à Montréal.</p>
+
+      <br><br>
+
+      <p><img src="../assets/20190710_wellington/IMG_6694.jpg" onclick="openModal();currentSlide(1)" class="article-image" alt="Panorama de Wellington." style="width:100%;"></p>
+      <figcaption>Panorama de Wellington.</figcaption>
+
+      <br><br>
+
+      <p>Nous avons visité le monument commémoratif de la guerre (photo avec les statues en bronze), le jardin botanique et le musée d'histoire naturelle et de civilisation (il est construit sur des espèces de gros ressort qui absorbent les vibrations lors de tremblements de terres).</p>
+
+      <p>L'édifice cylindrique, c'est le parlement (avec comme nom officiel Beehive, ou ruche d'abeille. Sérieusement). Nous avons aussi embarqué sur un bateau à voile des années '50 qui voyageait autour du Pacifique et qui était accosté au port de Wellington pendant quelques jours.</p>
+
+      <br><br>
+
+      <!-- Image grid -->
+
+			<div class="row">
+			  <div class="column">
+			    <img src="../assets/20190710_wellington/IMG_6628.jpg" onclick="openModal();currentSlide(2)" class="article-image" style="width:100%" alt="Monument commémoratif de la guerre.">
+			  </div>
+			  <div class="column">
+			    <img src="../assets/20190710_wellington/IMG_6642.jpg" onclick="openModal();currentSlide(3)" class="article-image" style="width:100%" alt="Un beau grafiti.">
+			  </div>
+			  <div class="column">
+			    <img src="../assets/20190710_wellington/IMG_6652.jpg" onclick="openModal();currentSlide(4)" class="article-image" style="width:45%" alt="Un gros voilier amarré au port de Wellington.">
+			    <img src="../assets/20190710_wellington/IMG_6663.jpg" onclick="openModal();currentSlide(5)" class="article-image" style="width:45%" align="right" alt="Reflet d'un bâtiment dans une vitre.">
+			  </div>
+        <div class="column">
+			    <img src="../assets/20190710_wellington/IMG_6703.jpg" onclick="openModal();currentSlide(6)" class="article-image" style="width:100%" alt="Le parlement de la Nouvelle-Zélande.">
+			  </div>
+			</div>
+
+      <div class="row">
+			  <div class="column">
+			    <img src="../assets/20190710_wellington/IMG_6717.jpg" onclick="openModal();currentSlide(7)" class="article-image" style="width:100%" alt="Un moineau.">
+			  </div>
+			  <div class="column">
+			    <img src="../assets/20190710_wellington/IMG_6720.jpg" onclick="openModal();currentSlide(8)" class="article-image" style="width:100%" alt="Le parlement.">
+			  </div>
+			  <div class="column">
+			    <img src="../assets/20190710_wellington/IMG_6728.jpg" onclick="openModal();currentSlide(9)" class="article-image" style="width:100%" alt="Un beau monarque.">
+			  </div>
+			  <div class="column">
+			    <img src="../assets/20190710_wellington/IMG_6732.jpg" onclick="openModal();currentSlide(10)" class="article-image" style="width:100%" alt="Une maison au jardin botanique de Wellington.">
+			  </div>
+			</div>
+
+      <div class="row">
+			  <div class="column">
+			    <img src="../assets/20190710_wellington/IMG_6787.jpg" onclick="openModal();currentSlide(11)" class="article-image" style="width:100%" alt="La baie de Wellington.">
+			  </div>
+        <div class="column">
+			    <img src="../assets/20190710_wellington/IMG_6779.jpg" onclick="openModal();currentSlide(12)" class="article-image" style="width:45%" alt="Un tramway historique.">
+			  </div>
+			</div>
+
+      <!-- Image modal -->
+
+			<div id="myModal" class="modal">
+			  <span class="close cursor" onclick="closeModal()">&times;</span>
+			  <div class="modal-content">
+
+			    <div class="mySlides">
+			      <div class="numbertext">1 / 12</div>
+			      <img src="../assets/20190710_wellington/IMG_6694.jpg" style="max-width:95vw;max-height:90vh;">
+			    </div>
+
+			    <div class="mySlides">
+			      <div class="numbertext">2 / 12</div>
+			      <img src="../assets/20190710_wellington/IMG_6628.jpg" style="max-width:95vw;max-height:90vh;">
+			    </div>
+
+			    <div class="mySlides">
+			      <div class="numbertext">3 / 12</div>
+			      <img src="../assets/20190710_wellington/IMG_6642.jpg" style="max-width:95vw;max-height:90vh;">
+			    </div>
+
+			    <div class="mySlides">
+			      <div class="numbertext">4 / 12</div>
+			      <img src="../assets/20190710_wellington/IMG_6652.jpg" style="max-width:95vw;max-height:90vh;">
+			    </div>
+
+			    <div class="mySlides">
+			      <div class="numbertext">5 / 12</div>
+			      <img src="../assets/20190710_wellington/IMG_6663.jpg" style="max-width:95vw;max-height:90vh;">
+			    </div>
+
+			    <div class="mySlides">
+			      <div class="numbertext">6 / 12</div>
+			      <img src="../assets/20190710_wellington/IMG_6703.jpg" style="max-width:95vw;max-height:90vh;">
+			    </div>
+
+			    <div class="mySlides">
+			      <div class="numbertext">7 / 12</div>
+			      <img src="../assets/20190710_wellington/IMG_6717.jpg" style="max-width:95vw;max-height:90vh;">
+			    </div>
+
+			    <div class="mySlides">
+			      <div class="numbertext">8 / 12</div>
+			      <img src="../assets/20190710_wellington/IMG_6720.jpg"   style="max-width:95vw;max-height:90vh;">
+			    </div>
+
+			    <div class="mySlides">
+			      <div class="numbertext">9 / 12</div>
+			      <img src="../assets/20190710_wellington/IMG_6728.jpg" style="max-width:95vw;max-height:90vh;">
+			    </div>
+
+          <div class="mySlides">
+			      <div class="numbertext">10 / 12</div>
+			      <img src="../assets/20190710_wellington/IMG_6732.jpg" style="max-width:95vw;max-height:90vh;">
+			    </div>
+
+          <div class="mySlides">
+			      <div class="numbertext">11 / 12</div>
+			      <img src="../assets/20190710_wellington/IMG_6787.jpg" style="max-width:95vw;max-height:90vh;">
+			    </div>
+
+          <div class="mySlides">
+			      <div class="numbertext">12 / 12</div>
+			      <img src="../assets/20190710_wellington/IMG_6779.jpg" style="max-width:95vw;max-height:90vh;">
+			    </div>
+
+          <!-- Next/previous controls -->
+			    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+			    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+			    <!-- Caption text -->
+			    <div class="caption-container">
+			      <div id="caption"></div>
+			    </div>
+			  </div>
+			</div>
+
+			<br><br>
+
+      <p>Voici la localisation de Wellington sur une carte de la Nouvelle-Zélande:</p>
+
+      <iframe width="100%" height="400px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=169.62890557944775%2C-43.97864683771039%2C179.91210870444775%2C-38.47258034213492&amp;layer=mapnik&amp;marker=-41.28364941166753%2C174.77050714194775" style="border: 1px solid black"></iframe>
+
+      <br><br>
+
+		</main>
+
+		<script src="../js/blog.js"></script>
+
+	</body>
+
+</html>
