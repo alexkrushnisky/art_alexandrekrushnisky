@@ -3,6 +3,17 @@
 
   <head>
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-163856394-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-163856394-1');
+    </script>
+
+
     <title>Alex Krushnisky</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8"/>
@@ -12,9 +23,17 @@
     <script src="js/vendor/three/three.js"></script>
     <script src="js/vendor/three/OrbitControls.js"></script>
     <script src="js/vendor/three/GLTFLoader.js"></script>
+    <!-- For water animation -->
     <script src="js/vendor/three/Water2.js"></script>
     <script src="js/vendor/three/Reflector.js"></script>
     <script src="js/vendor/three/Refractor.js"></script>
+    <!-- For post-processing -->
+    <script src="js/vendor/three/EffectComposer.js"></script>
+    <script src="js/vendor/three/SSAOPass.js"></script>
+    <script src="js/vendor/three/ShaderPass.js"></script>
+    <script src="js/vendor/three/CopyShader.js"></script>
+    <script src="js/vendor/three/SimplexNoise.js"></script>
+    <script src="js/vendor/three/SSAOShader.js"></script>
 
   </head>
 
