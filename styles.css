@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+}
+
+#header {
+    font-family: "Reenie Beanie", cursive;
+    font-weight: 400;
+    font-size: 32px;
+    font-style: normal;
+    padding-left: 100px;
+}
+
+#header img {
+    height: 32px;
+    display: inline;
+    vertical-align: middle;
+    margin-right: 30px;
+}
+
+#header p {
+    display: inline;
+}
+
+#content {
+    margin: 50px 100px 50px 100px;
+}
+
+#intro {
+    margin: 0px 200px 0px 200px;
+}
+
+h1 {
+    font-family: "Reenie Beanie", cursive;
+    font-weight: 400;
+    font-size: 60px;
+    font-style: normal;
+}
+
+#titre {
+    margin: 0 0 50px 0;
+}
+
+#gallerie {
+    margin: 100px 0 50px 0;
+}
+
+p {
+    font-family: "Playwrite DE Grund", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+  }
+
+.img {
+    height: 400px;
+    margin: 0 30px 30px 0;
+    padding: 5px;
+    border: 20px solid black;
+}
