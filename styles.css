@@ -66,6 +66,10 @@ p {
     border: 20px solid black;
 }
 
+.img:hover {
+    opacity: 0.7;
+}
+
 #footer {
     width: 100%;
     text-align: right;
