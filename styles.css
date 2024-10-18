@@ -76,6 +76,30 @@ p {
     padding: 0 20px 20px 0;
 }
 
+#footer img:hover {
+    opacity: 0.17;
+}
+
+#temp-dark-bcgd {
+    background-color: black;
+}
+
+#temp-dark-p {
+    display: inline-block; 
+    margin: 50px 0 0 50px;
+    color: red;
+    font-weight: 100;
+    font-size: 24px;
+}
+
+#hidden-text {
+    display: inline;
+    display: inline-block; 
+    margin: 50px 0 0 10px;
+    font-weight: 100;
+    font-size: 24px;
+}
+
 @media only screen and (max-width:1000px) {
     #header img {
         margin-left: 40px;
