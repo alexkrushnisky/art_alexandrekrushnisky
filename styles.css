@@ -66,18 +66,26 @@ p {
 
 #footer {
     width: 100%;
-    text-align: right;
-    margin-top: 20px;
+    text-align: center;
+}
+
+#footer td {
+    width: 100%;
+}
+
+#footer p {
+    font-size: 12px;
 }
 
 #footer img {
-    height: 100px;
+    float: right;
+    height: 60px;
     opacity: 0.2;
-    padding: 0 20px 20px 0;
+    padding: 0 80px 10px 0;
 }
 
 #footer img:hover {
-    opacity: 0.17;
+    opacity: 0.15;
 }
 
 #temp-dark-bcgd {
@@ -110,7 +118,7 @@ p {
     }
 
     #footer img {
-        height: 80px;
+        padding: 0 40px 10px 0;
     }
 }
 
@@ -191,6 +199,6 @@ p {
     }
    
     #footer img {
-        height: 60px;
+        padding: 0 20px 10px 20px;
     }
 }
