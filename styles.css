@@ -53,15 +53,43 @@ p {
     margin: 0 0 50px 0;
 }
 
-#gallery img {
-    height: 400px;
+.container {
+    display: inline-block;
+    position: relative;
+    width: auto;
+    height: 450px;
     margin: 0 30px 30px 0;
+}
+
+#gallery a {
+    display: block;
+    height: 450px;
+}
+
+.img {
+    height: 400px;
     padding: 5px;
     border: 20px solid black;
 }
 
-#gallery img:hover {
-    opacity: 0.7;
+.caption {
+    color: black;
+    opacity: 0;
+    font-size: 18px;
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    display: block;
+}
+
+.container:hover .img {
+    opacity: 0.3;
+}
+
+.container:hover .caption {
+    opacity: 1;
 }
 
 #footer {
@@ -75,6 +103,11 @@ p {
 
 #footer p {
     font-size: 12px;
+}
+
+#footer-a {
+    display: block;
+    height: 70px;
 }
 
 #footer img {
@@ -155,11 +188,27 @@ p {
         margin: 0 0 30px 0;
     }
 
-    #gallery img {
+    .container {
+        position: static;
+        width: 100%;
+        height: auto;
+        margin: 0 0 30px 0;
+    }
+
+    #gallery a {
+        height: auto;
+        width: 100%;
+    }
+
+    .img {
         box-sizing: border-box;
         height: auto;
         width: 100%;
-        margin: 0 0 30px 0;
+    }
+
+    .caption {
+        position: static;
+        opacity: 1;
     }
 }
 
@@ -194,11 +243,17 @@ p {
         width: auto;
     }
 
-    #gallery img {
+    .img {
         border: 15px solid black;
     }
    
     #footer img {
         padding: 0 20px 10px 20px;
+    }
+}
+
+@media only screen and (max-width:400px) {
+    .caption {
+        font-size: 14px;
     }
 }
