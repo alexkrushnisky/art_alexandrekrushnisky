@@ -153,7 +153,9 @@ h1 {
 }
 
 .fullscreen-img {
-    height: 100vh;
+    max-height: 100vh;
+    max-width: 100vw;
+    margin: auto 0 auto 0;
 }
 
 .home-button {
@@ -272,11 +274,6 @@ h1 {
         font-size: 12px;
     }
 
-    #header {
-        height: 100px;
-        line-height: 100px;
-    }
-    
     #header img {
         margin-left: 20px;
     }
@@ -311,10 +308,6 @@ h1 {
         font-size: 12px;
     }
 
-    #header img {
-        display: none;
-    }
-
     #footer img {
         padding: 10px;
         height: 30px;
@@ -324,4 +317,19 @@ h1 {
         margin: 10px auto 20px auto;
         font-size: 8px;
     }
+
+    .home-button {
+        width: 20px;
+    }
+
+    .left-arrow, .right-arrow {
+        font-size: 32px;
+    }
 }
+
+@media only screen and (max-width:320px) {
+    #header img {
+        display: none;
+    }
+}
+
