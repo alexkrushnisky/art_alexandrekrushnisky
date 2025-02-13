@@ -78,6 +78,14 @@ p {
     border: 20px solid black;
 }
 
+.portrait-img {
+    box-sizing: border-box;
+    max-width: 100%;
+    max-height: 100%;
+    padding: 5px;
+    border: 20px solid black;
+}
+
 .caption {
     text-align: center;
     display: block;
