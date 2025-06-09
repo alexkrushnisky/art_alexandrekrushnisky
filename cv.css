@@ -4,21 +4,31 @@ body {
 }
 
 #cv-body {
-    margin: auto 100px auto 0;
+    margin: 100px auto 0 auto;
     width: 600px;
 }
 
 h1 {
     font-size: 14pt;
     font-weight: bold;
+    margin: 0;
+    padding: 0;
 }
 
 h2 {
     font-size: 12pt;
+    margin: 0;
+    padding: 0;
 }
 
 p {
     font-size: 10pt;
+    margin: 0;
+    padding: 0;
+}
+
+.p-spacing {
+    margin-bottom: 10px;
 }
 
 @media only screen and (max-width:1000px) {
