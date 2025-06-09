@@ -6,6 +6,7 @@ body {
 #cv-body {
     margin: 50px auto 100px auto;
     width: 600px;
+    max-width: 90%;
 }
 
 h1 {
