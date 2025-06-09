@@ -27,6 +27,10 @@ p {
     padding: 0;
 }
 
+ul {
+    margin: 0;
+}
+
 .p-spacing {
     margin-bottom: 10px;
 }
