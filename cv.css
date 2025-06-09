@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+
+#cv-body {
+    width: 800px;
+}
+
+h1 {
+    font-family: Verdana, sans-serif;
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: Verdana, sans-serif;
+    font-size: 12pt;
+}
+
+p {
+    font-family: Verdana, sans-serif;
+    font-size: 10pt;
+}
+
+@media only screen and (max-width:1000px) {
+
+}
+
+@media only screen and (max-width:800px) {
+
+}
+
+@media only screen and (max-width:600px) {
+
+}
